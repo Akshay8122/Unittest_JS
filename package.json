@@ -1,0 +1,17 @@
+{
+  "name": "javascript_unittest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "testwatch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.1.2",
+    "jest": "^29.2.0"
+  }
+}
